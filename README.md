@@ -1,5 +1,11 @@
 ## Gabriel Fialho - Estudante de Ciência da Computação - UFMG
 
+<div align="center">
+  <a href="https://github.com/gabrielmmf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmmf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmmf&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### Sobre Mim
 
 Sempre fui apaixonado por tecnologia e muito curioso, além de adorar aprender coisas novas. No âmbito profissional, quero ser útil para resolver todo tipo de problema em qualquer tipo de projeto e ganhar experiência para ser capaz de atuar como um engenheiro de software. Estou cursando Ciência da Computação e me capacitando cada vez mais de maneira autodidata para me aperfeiçoar no desenvolvimento de software.
