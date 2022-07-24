@@ -1,9 +1,9 @@
 ## Gabriel Fialho - Estudante de Ciência da Computação - UFMG
 
-<div align="center">
+<div>
   <a href="https://github.com/gabrielmmf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmmf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmmf&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmmf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmmf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Sobre Mim
