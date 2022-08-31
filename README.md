@@ -6,13 +6,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmmf&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-### Conhecimentos
-- Programação Orientada a Objeto
-- Algoritmos e Estruturas de Dados
-- Manipulação, visualização, limpeza e análise de dados com Pandas (Python)
-- Conhecimento básico em SQL e Banco de Dados
-- Familiaridade com Inglês
-- Linguagens mais estudadas: 
+
+### Linguagens mais estudadas
 C, C++, JavaScript, HTML, CSS, Python
 
 ### Objetivo Profissional
