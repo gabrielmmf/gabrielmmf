@@ -10,9 +10,6 @@
 ### Linguagens mais estudadas
 C, C++, JavaScript, HTML, CSS, Python
 
-### Objetivo Profissional
-Pretendo me tornar um Engenheiro de Software, capaz de abstrair e resolver diversos tipos de problemas. Tenho interesse em diversas áreas de programação
-
 <!--
 **gabrielmmf/gabrielmmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
