@@ -1,4 +1,4 @@
-## Gabriel Fialho - Estudante de Ciência da Computação - UFMG
+## Gabriel Fialho - Computer Science - UFMG
 
 <div>
   <a href="https://github.com/gabrielmmf">
