@@ -19,7 +19,6 @@
 <div align="center">
   <code>
     <img
-      align="center"
       alt="HTML5 icon"
       height="25"
       width="25"
@@ -28,7 +27,6 @@
   </code>
   <code>
     <img
-      align="center"
       alt="CSS3 icon"
       height="25"
       width="25"
