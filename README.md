@@ -52,7 +52,7 @@
       alt="Typescript icon"
       height="25"
       width="25"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
   /></code>
   <code
     ><img
