@@ -79,7 +79,7 @@
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmmf&&theme=react&layout=compact&langs_count=5&hide=jupyter%20notebook"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmmf&&theme=react&layout=compact&hide=jupyter%20notebook"
   />
   <img
     height="180em"
