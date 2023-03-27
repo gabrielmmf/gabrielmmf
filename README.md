@@ -1,6 +1,6 @@
 ## Gabriel Fialho - Computer Science - UFMG
 
-### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! My social media:
+### Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <p>
   <a href="https://www.linkedin.com/in/gabrielmmf/">
@@ -65,6 +65,13 @@
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+  /></code>
+  <code
+    ><img
+      alt="cpp icon"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   /></code>
 </div>
 
