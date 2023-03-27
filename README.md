@@ -49,6 +49,13 @@
   /></code>
   <code
     ><img
+      alt="Typescript icon"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  /></code>
+  <code
+    ><img
       alt="NodeJS icon"
       height="25"
       width="25"
