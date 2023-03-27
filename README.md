@@ -1,6 +1,6 @@
 ## Gabriel Fialho - Computer Science - UFMG
 
-<!-- ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! My social media: -->
+### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! My social media:
 
 <p>
   <a href="https://www.linkedin.com/in/gabrielmmf/">
@@ -17,22 +17,6 @@
 
 <h3>💻 Languages and Tools:</h3>
 <div>
-  <code>
-    <img
-      alt="HTML5 icon"
-      height="25"
-      width="25"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    />
-  </code>
-  <code>
-    <img
-      alt="CSS3 icon"
-      height="25"
-      width="25"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    />
-  </code>
   <code
     ><img
       alt="JavaScript icon"
@@ -42,14 +26,14 @@
   /></code>
   <code
     ><img
-      alt="Typescript icon"
+      alt="CSS icon"
       height="25"
       width="25"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
   /></code>
   <code
     ><img
-      alt="Typescript icon"
+      alt="HTML icon"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
@@ -106,9 +90,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
 
 
 
