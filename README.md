@@ -12,7 +12,7 @@
 
 ### About me
 - 🌱 I’m currently studying Computer Science at [UFMG](https://www.ufmg.br/).
-- ⚡ Interested in web development (React.js,Vue.js Node.js and Express.js) and Data Science.
+- ⚡ Interested in web development (React.js, Vue.js, Node.js and Express.js) and Data Science.
 
 - ❤️ Things that I love:
   - 🔭 Astronomy
