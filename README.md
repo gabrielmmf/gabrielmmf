@@ -13,11 +13,13 @@
 ### About me
 - 🌱 I’m currently studying Computer Science at [UFMG](https://www.ufmg.br/).
 - ⚡ Interested in web development (React.js,Vue.js Node.js and Express.js) and Data Science.
-- 🌟 Fun facts:
-  - 🔭 I love astronomy
-  - 💪 I like to train calisthenics in my free time
-  - ⚽ I love football
-<!-- - 🎮 Fun fact: -->
+
+- ❤️ Things that I love:
+  - 🔭 Astronomy
+  - 💪 Calisthenics and Strength Exercises
+  - ⚽ Football
+  - 💻 Coding! <3
+<!-- - 🌟 Fun facts: -->
 
 <h3>💻 Languages and Tools:</h3>
 <div>
