@@ -16,7 +16,7 @@
 <!-- - 🎮 Fun fact: -->
 
 <h3>💻 Languages and Tools:</h3>
-<div align="center">
+<div>
   <code>
     <img
       alt="HTML5 icon"
