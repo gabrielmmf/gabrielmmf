@@ -60,6 +60,13 @@
   /></code>
   <code
     ><img
+      alt="ReactJS icon"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+  /></code>
+  <code
+    ><img
       alt="linux icon"
       height="25"
       width="25"
